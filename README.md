@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
-<p align="center">
-  <a href="https://github.com/teja4848"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science%20Student;Data%20Science;Machine%20Learning;Full%20Stack%20Developer&center=true&width=380&height=45"></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header"/>
 </p>
 
 <a href="https://komarev.com/ghpvc/?username=teja4848">
@@ -17,6 +14,10 @@
     <b><a target="_blank" href="https://krishna-teja.netlify.app/">Krishna Teja</a></b>
   </samp>
 </h3>
+<p align="center">
+  <a href="https://github.com/teja4848"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science%20Student;AI%20Enthusiast;Data%20Analyst;Full%20Stack%20Developer&center=true&width=380&height=45"></a>
+</p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="GIF" width="300" height="300">
 </p>
